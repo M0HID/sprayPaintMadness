@@ -17,3 +17,8 @@ If you are using another executor, simply follow what the comments say to replac
 I have no idea who made the original image parser script but I found it [here](https://v3rmillion.net/showthread.php?tid=1000776) and just took a part the inside of the module.
 
 # With great power comes great trolling
+![unknown](https://user-images.githubusercontent.com/99545929/153716810-cc02fd4c-27ae-4b80-bbf4-2425b0e4c472.png)
+![unknown](https://user-images.githubusercontent.com/99545929/153716822-62685e9a-1615-4d87-a3d7-e82ca5af4eaf.png)
+![unknown-1](https://user-images.githubusercontent.com/99545929/153716816-16070994-0a89-4e08-8878-08c953da6927.png)
+![unknown](https://user-images.githubusercontent.com/99545929/153716835-beb5fbd5-b786-42d9-b180-e7b332e39968.png)
+![unknown-1](https://user-images.githubusercontent.com/99545929/153716839-e5a10e68-b3df-473c-aff2-2abde7620b21.png)
