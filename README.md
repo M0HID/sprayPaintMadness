@@ -1,6 +1,8 @@
 # sprayPaintMadness
 *This is a can of worms I should not have dared to open*
 
+Click [here](https://github.com/theinvisiblefish13/sprayPaintMadness/blob/main/paint%20FINAL.lua) to get to the script if you don't know how to use GitHub lol
+
 This script will allow you to put **any PNG image imaginable** into the Roblox game [Spray Paint!](https://www.roblox.com/games/5991163185)
 The PNG must not be too large, or it will crash you (or just not work). Reccomended size for fast drawing is under 128x128.
 
