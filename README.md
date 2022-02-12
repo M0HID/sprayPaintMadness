@@ -4,10 +4,10 @@
 This script will allow you to put **any PNG image imaginable** into the Roblox game [Spray Paint!](https://www.roblox.com/games/5991163185)
 The PNG must not be too large, or it will crash you (or just not work). Reccomended size for fast drawing is under 128x128.
 
+The majority of the instructions are contained within the big script comment, so read them before using.
+
 There is a mode called **raycast mode**, and this will allow you to follow the contours of any surface. It only works from a distance (or it will just clip into the ground), so freecam is basically a must.
 ***Raycast mode has awkward centering because I'm retarded with CFrames and too lazy to fix it, it originates from the top center instead of the center***
-
-The majority of the instructions are contained within the big script comment, so read them before using.
 
 This script was made for **Synapse X**, but *will work with other executors* that have their own HTTP request function.
 If you are using another executor, simply follow what the comments say to replace the functions.
