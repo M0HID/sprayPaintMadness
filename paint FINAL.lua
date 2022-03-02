@@ -25,11 +25,11 @@
 --IF YOU ARE NOT USING SYNAPSE X:
 
 --Replace this with your executor's http request function
-local REQUEST_FUNC = syn.request
+local REQUEST_FUNC = https://krnl.ca
 
 --Replace this with your executor's gui protection function
 --(This can be set to nil and the script will run fine, not very necessary tbh)
-local PROTECT_FUNC = syn.protect
+local PROTECT_FUNC = 0
 
 -------------------------------------------------------------
 
